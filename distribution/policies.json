@@ -83,7 +83,7 @@
     "ExtensionSettings": {
       "uBlock0@raymondhill.net": {
         "installation_mode": "normal_installed",
-        "install_url": "https://download.fastgit.org/gorhill/uBlock/releases/download/1.45.0/uBlock0_1.45.0.firefox.signed.xpi"
+        "install_url": "https://download.fastgit.org/gorhill/uBlock/releases/download/1.45.2/uBlock0_1.45.2.firefox.signed.xpi"
       },
       "https-everywhere@eff.org": {
         "installation_mode": "blocked",
@@ -426,7 +426,7 @@
           "Description": "SearX Public Instance",
           "Alias": "searx",
           "Method": "POST",
-          "PostData": "categories=general&language=all&locale=en&autocomplete=&image_proxy=1&method=POST&safesearch=0&theme=simple&results_on_new_tab=1&doi_resolver=oadoi.org&simple_style=auto&center_alignment=1&query_in_title=0&infinite_scroll=0&disabled_engines=bing%20images__images,bing%20news__news,bing%20videos__videos,wikidata__general,duckduckgo__general,tineye__general,lingva__general,qwant__general,qwant%20news__news,qwant%20images__images,qwant%20videos__videos,wiktionary__other,dictzone__general&enabled_engines=ccc-tv__videos,crossref__science,erowid__other,jisho__other,kickass__files,library%20genesis__files,nyaa__files,startpage__general,tokyotoshokan__files,twitter__social%20media,marginalia__general,alexandria__general,1337x__files&disabled_plugins=&enabled_plugins=&tokens=&maintab=on&enginetab=on&q={searchTerms}",
+          "PostData": "q={searchTerms}",
           "URLTemplate": "https://notsearch.uk/search",
           "IconURL": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZlcnNpb249IjEuMSIgdmlld0JveD0iMCAwIDMyIDMyIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgogPGcgaWQ9InBhdGgiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDAsMSkiIGZpbGw9IiNjOGQwZDUiPgogIDxwYXRoIHRyYW5zZm9ybT0idHJhbnNsYXRlKDAsLTEpIiBkPSJtMS4xMjMgM2MtMC45MDgxOCAxLjk0NDQtMS4yOTc5IDQuMDUzNS0xLjA0ODggNi4yMjY2IDAuMjQ4MzUgMi4xNjcgMS4xMDcgNC4xNzQxIDIuNDMzNiA1LjkzOTVhMTMuNzIzIDEzLjcyMyAwIDAgMC0wLjIwMTE3IDIuMjM2MyAxMy43MjMgMTMuNzIzIDAgMCAwIDEzLjcyMyAxMy43MjMgMTMuNzIzIDEzLjcyMyAwIDAgMCAxMy43MjMtMTMuNzIzIDEzLjcyMyAxMy43MjMgMCAwIDAtMC4xNzU3OC0yLjE3MzhjMS4yNzk3LTEuNzM4NSAyLjEwNjQtMy43MDgzIDIuMzQ5Ni01LjgzMDEgMC4yNDkwNC0yLjE3My0wLjE0MDY1LTQuMjgyMi0xLjA0ODgtNi4yMjY2LTAuMjg4MDkgMi4zNjQtMS42MTcyIDQuNDkxMi0zLjY5MzQgNi4yNDIyYTEzLjcyMyAxMy43MjMgMCAwIDAtMTEuMTU0LTUuNzM2MyAxMy43MjMgMTMuNzIzIDAgMCAwLTExLjA3NiA1LjY3OTdjLTIuMTU0Ni0xLjc3MjItMy41MzU3LTMuOTQyLTMuODMwMS02LjM1NzR6bTE0Ljg3NSA0LjQxNmE5Ljk1NDEgOS45NTQxIDAgMCAxIDkuOTUzMSA5Ljk1MzEgOS45NTQxIDkuOTU0MSAwIDAgMS05Ljk1MzEgOS45NTUxIDkuOTU0MSA5Ljk1NDEgMCAwIDEtOS45NTUxLTkuOTU1MSA5Ljk1NDEgOS45NTQxIDAgMCAxIDkuOTU1MS05Ljk1MzF6Ii8+CiAgPHBhdGggdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMCwtMSkiIGQ9Im0xNi4xNTIgMTQuMTA3YTMuNDc5MSAzLjQ3OTEgMCAwIDAtMy40Nzg1IDMuNDc4NSAzLjQ3OTEgMy40NzkxIDAgMCAwIDMuNDc4NSAzLjQ3ODUgMy40NzkxIDMuNDc5MSAwIDAgMCAzLjQ3ODUtMy40Nzg1IDMuNDc5MSAzLjQ3OTEgMCAwIDAtMy40Nzg1LTMuNDc4NXptMS40MTk5IDEuNTY0NWEwLjcwODcgMC43MDg3IDAgMCAxIDAuNzA4OTggMC43MDg5OCAwLjcwODcgMC43MDg3IDAgMCAxLTAuNzA4OTggMC43MDg5OCAwLjcwODcgMC43MDg3IDAgMCAxLTAuNzA4OTgtMC43MDg5OCAwLjcwODcgMC43MDg3IDAgMCAxIDAuNzA4OTgtMC43MDg5OHoiLz4KIDwvZz4KPC9zdmc+Cg=="
         },
